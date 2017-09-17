@@ -3,7 +3,7 @@ title: Xander
 subtitle: Mr.X's blog site!
 welcome_message: Love
 description: 天生的，独一无二的！
-creator: <a href="https://mrx520.github.io/">@onevcat</a>
+creator: <a href="https://mrx520.github.io/">@mrx520</a>
 
 url: "https://mrx520.github.io"
 
@@ -18,12 +18,11 @@ cover_color: red
 # The blog button should not be removed.
 blog_button:
     title: Mr.X
-    description: 欢迎来到波波的博客！
+    description: Welcome to here, I love you!
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: Projects, description: My Projects, url: 'https://github.com/mrx520'}
 
 # Pagination
 gems: [jekyll-paginate]
@@ -37,11 +36,11 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: xxxxxx
+    github: mrx520
+    twitter: xxxxxx
+    gplus: xxxxxx
+    mail: jxjy.ing@foxmail.com
 
 # Google Analytics
 ga:
